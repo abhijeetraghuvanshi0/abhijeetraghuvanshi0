@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there, I'm Abhijeet 👋<br><br>I'm the Founder of Sofxemo Infotech, a software development agency focused on building modern web platforms, Android applications, and AI-powered digital products for businesses and startups.<br><br>🚀 What I'm Working On<br>• Sofxemo Infotech: Helping businesses establish their digital presence through custom websites, web portals, and mobile apps.<br>• GatiVidhya: Developing a multi-tenant coaching and institute management mobile app to streamline attendance, fee tracking, and academic operations.<br>• Fodridge: Building an ecosystem platform designed to connect early-stage founders with mentors, resources, and startup opportunities.<br><br>🛠️ Tech Stack & Tools<br>• Development & AI Workflows: Google AI Studio, Android Studio, VS Code, Firebase (Auth, Firestore, Hosting)<br>• Web & App Ecosystem: Progressive Web Apps (PWAs), Android App Development, REST APIs & Webhooks<br>• Cloud & Infrastructure: Hostinger, Cloudinary, Google Workspace & Apps Script<br><br>📫 Connect With Me<br>• Website: https://www.sofxemo.com<br>• Company: Sofxemo Infotech Private Limited<br>• Location: Bihar, India
 
-<!--
-**abhijeetraghuvanshi0/abhijeetraghuvanshi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhijeetraghuvanshi00) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abhijeetraghuvanshi0&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abhijeetraghuvanshi0&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhijeetraghuvanshi0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=abhijeetraghuvanshi0&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
